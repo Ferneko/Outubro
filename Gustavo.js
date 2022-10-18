@@ -1,1 +1,1 @@
-Alert("t('-'t)")
+Alert("Peace among us t('-'t)")
