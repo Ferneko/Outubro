@@ -1,5 +1,5 @@
 if(10>12){
-alert("Ola")
+alert("Ola 123")
 
 
 }
